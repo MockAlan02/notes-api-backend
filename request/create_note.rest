@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/notes 
+Content-type:application/json
+
+{
+    "content":"Yo soy millonario",
+    "important": true
+}
+###
+POST http://localhost:3001/api/notes 
+Content-type:application/json
+
+{
+    "content":"Casate conmigo",
+    "important": true
+}
