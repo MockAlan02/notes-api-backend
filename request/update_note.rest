@@ -1,0 +1,8 @@
+PUT http://localhost:3001/api/notes/64ee91ec79423b091fed70a4
+Content-type:application/json
+
+{
+    "content":"Yo soy tu hwmanose",
+    "important": true,
+    "date": "Wed, 30 Aug 2023 02:33:05 GMT"
+}
